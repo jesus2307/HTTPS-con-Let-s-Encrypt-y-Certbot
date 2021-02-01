@@ -8,7 +8,7 @@ Crear una instancia EC2 en Amazon Web Services (AWS).
 Realizar la instalación y configuración de un sitio web WordPress. Para esta tarea puede hacer uso de los scripts que ha realizado en las prácticas anteriores.
 
 Registrar un nombre de dominio en algún proveedor de nombres de dominio gratuito. Por ejemplo, puede hacer uso de Freenom.
-![Texto alternativo](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/1.png "Título alternativo")
+![Freenom](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/1.png "Freenom")
 
 Obtener la dirección IP pública de su instancia EC2 en AWS.
 
