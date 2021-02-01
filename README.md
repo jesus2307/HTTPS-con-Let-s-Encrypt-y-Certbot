@@ -16,7 +16,7 @@ Configurar los registros DNS del proveedor de nombres de dominio para que el nom
 ![Freenom](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/2.png "Freenom")
 
 Instalar y configurar el cliente ACME Certbot en su instacia EC2 de AWS, siguiendo los pasos de la documentación oficial.
-![Freenom]https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/4.png "Freenom")
+![Freenom] (https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/4.png "Freenom")
 
 # 1.4 Entregables
 En esta práctica habrá que entregar un documento técnico con la descripción de los pasos que se han llevado a cabo durante todo el proceso.
