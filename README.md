@@ -11,6 +11,7 @@
 ![Freenom](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/1.png "Freenom")
 
 + Obtener la dirección IP pública de su instancia EC2 en AWS.
+![Freenom](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/5.png "Freenom")
 
 + Configurar los registros DNS del proveedor de nombres de dominio para que el nombre de dominio de ha registrado pueda resolver hacia la dirección IP pública de su instancia EC2 de AWS.
 ![Freenom](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/2.png "Freenom")
