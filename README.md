@@ -4,7 +4,7 @@
 # 1.3 Tareas a realizar
 
 + Crear una instancia EC2 en Amazon Web Services (AWS).
-![Freenom](https://github.com/jesus2307/iaw-practica-15/blob/main/imagen/Captura4.PNG "Freenom")
+![Freenom](https://github.com/jesus2307/iaw-practica-15/blob/main/imagen/Captura3.PNG "Freenom")
 
 + Realizar la instalación y configuración de un sitio web WordPress. Para esta tarea puede hacer uso de los scripts que ha realizado en las prácticas anteriores.
 
