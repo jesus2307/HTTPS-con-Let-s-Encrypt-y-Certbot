@@ -41,5 +41,5 @@ sudo apt install apache2
 <p>Una vez llegado hasta este punto tendríamos nuestro sitio web con <strong>HTTPS habilidado y todo configurado para que el certificado se vaya renovando automáticamente</strong>.</p>
 <p>Con el siguiente comando podemos comprobar que hay un temporizador en el sistema encargado de realizar la renovación de los certificados de manera automática.</p>
 <pre><code>systemctl list-timers</code></pre>
-
-![imagen](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/2.png "imagen")
+#Este seria el resultado:
+![imagen](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/captura12.PNG "imagen")
