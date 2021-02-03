@@ -33,8 +33,9 @@ Cuando esté creando la instancia deberá configurar los puertos que estarán ab
 ![Freenom](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/2.png "Freenom")
 
 + A continuación, instala el paquete apache2:
+```
 sudo apt install apache2
-
+```
 + Instalar y configurar el cliente ACME Certbot en su instacia EC2 de AWS, siguiendo los pasos de la documentación oficial.
 ![Freenom](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/4.png "Freenom")
 
