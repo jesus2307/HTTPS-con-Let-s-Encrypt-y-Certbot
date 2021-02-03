@@ -16,28 +16,30 @@
 # 1.3 Tareas a realizar
 
 + Crear una instancia EC2 en Amazon Web Services (AWS).
-![Freenom](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/6.PNG "Freenom")
+![imagen](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/6.PNG "imagen")
 Cuando esté creando la instancia deberá configurar los puertos que estarán abiertos para poder conectarnos por SSH y para poder acceder por HTTP/HTTPS.
 
 * SSH (22/TCP)
 * HTTP (80/TCP)
 * HTTPS (443/TCP)
-![Freenom](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/amzon.PNG "Freenom")
+![imagen](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/amzon.PNG "imagen")
 + Registrar un nombre de dominio en algún proveedor de nombres de dominio gratuito. Por ejemplo, puede hacer uso de Freenom.
-![Freenom](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/1.png "Freenom")
+![imagen](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/1.png "imagen")
 
 + Obtener la dirección IP pública de su instancia EC2 en AWS.
-![Freenom](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/5.PNG "Freenom")
+![imagen](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/5.PNG "imagen")
 
 + Configurar los registros DNS del proveedor de nombres de dominio para que el nombre de dominio de ha registrado pueda resolver hacia la dirección IP pública de su instancia EC2 de AWS.
-![Freenom](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/2.png "Freenom")
+![imagen](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/2.png "imagen")
 
 + A continuación, instala el paquete apache2:
 ```
 sudo apt install apache2
 ```
 + Instalar y configurar el cliente ACME Certbot en su instacia EC2 de AWS, siguiendo los pasos de la documentación oficial.
-![Freenom](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/4.png "Freenom")
+![imagen](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/4.png "imagen")
 <p>Una vez llegado hasta este punto tendríamos nuestro sitio web con <strong>HTTPS habilidado y todo configurado para que el certificado se vaya renovando automáticamente</strong>.</p>
 <p>Con el siguiente comando podemos comprobar que hay un temporizador en el sistema encargado de realizar la renovación de los certificados de manera automática.</p>
 <pre><code>systemctl list-timers</code></pre>
+
+![imagen](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/2.png "imagen")
