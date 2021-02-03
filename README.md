@@ -5,6 +5,11 @@
 
 + Crear una instancia EC2 en Amazon Web Services (AWS).
 ![Freenom](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/6.PNG "Freenom")
+Cuando esté creando la instancia deberá configurar los puertos que estarán abiertos para poder conectarnos por SSH y para poder acceder por HTTP/HTTPS.
+
+* SSH (22/TCP)
+* HTTP (80/TCP)
+* HTTPS (443/TCP)
 
 + Registrar un nombre de dominio en algún proveedor de nombres de dominio gratuito. Por ejemplo, puede hacer uso de Freenom.
 ![Freenom](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/1.png "Freenom")
