@@ -10,7 +10,7 @@ Cuando esté creando la instancia deberá configurar los puertos que estarán ab
 * SSH (22/TCP)
 * HTTP (80/TCP)
 * HTTPS (443/TCP)
-
+![Freenom](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/amzon.PNG "Freenom")
 + Registrar un nombre de dominio en algún proveedor de nombres de dominio gratuito. Por ejemplo, puede hacer uso de Freenom.
 ![Freenom](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/1.png "Freenom")
 
