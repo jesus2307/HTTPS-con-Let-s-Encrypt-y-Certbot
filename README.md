@@ -12,6 +12,7 @@
 <p>Se recomienda la lectura de la sección <strong>Cómo Funciona Let’s Encrypt</strong> de la <a href="https://letsencrypt.org/es/how-it-works/">documentación oficial</a>.</p>
 <h3 id="qué-es-certbot"><span class="header-section-number">1.1.4</span> ¿Qué es Certbot?</h3>
 <p>Para poder obtener un certificado de <a href="https://letsencrypt.org">Let’s Encrypt</a> para un dominio de un sitio web es necesario demostrar que se tiene control sobre ese dominio. Para realizar esta tarea es necesario utilizar un cliente del <a href="https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment">protocolo ACME (Automated Certificate Management Environment)</a>. El cliente ACME recomendado para esta tarea es <a href="https://certbot.eff.org/">Certbot</a> porque es fácil de usar, tiene soporte para muchos sistemas operativos y dispone de una excelente documentación.</p>
+
 # 1.3 Tareas a realizar
 
 + Crear una instancia EC2 en Amazon Web Services (AWS).
