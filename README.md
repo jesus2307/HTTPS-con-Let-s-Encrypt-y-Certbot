@@ -15,9 +15,9 @@
 + Configurar los registros DNS del proveedor de nombres de dominio para que el nombre de dominio de ha registrado pueda resolver hacia la dirección IP pública de su instancia EC2 de AWS.
 ![Freenom](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/2.png "Freenom")
 
-+ Realizar la instalación y configuración de un sitio web WordPress. Para esta tarea puede hacer uso de los scripts que ha realizado en las prácticas anteriores.
-#### A continuación, instala el paquete apache2:
++ A continuación, instala el paquete apache2:
 sudo apt install apache2
+
 + Instalar y configurar el cliente ACME Certbot en su instacia EC2 de AWS, siguiendo los pasos de la documentación oficial.
 ![Freenom](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/4.png "Freenom")
 
