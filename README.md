@@ -42,7 +42,7 @@ Cuando esté creando la instancia deberá configurar los puertos que estarán ab
 <pre><code>systemctl list-timers</code></pre>
 
 wp search-replace 'http://la ip publica' 'https://nombre del dominio'
-
+![imagen](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/Captura22222.PNG "imagen")
 # Este seria el resultado:
 
 ![imagen](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/result.PNG "imagen")
