@@ -32,10 +32,9 @@ Cuando esté creando la instancia deberá configurar los puertos que estarán ab
 + Configurar los registros DNS del proveedor de nombres de dominio para que el nombre de dominio de ha registrado pueda resolver hacia la dirección IP pública de su instancia EC2 de AWS.
 ![imagen](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/2.png "imagen")
 
-+ A continuación, instala el paquete apache2:
-```
-sudo apt install apache2
-```
++ A continuación, instala wordpress:
+![imagen](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/Captura55.PNG "imagen")
+
 + Instalar y configurar el cliente ACME Certbot en su instacia EC2 de AWS, siguiendo los pasos de la documentación oficial.
 ![imagen](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/4.png "imagen")
 <p>Una vez llegado hasta este punto tendríamos nuestro sitio web con <strong>HTTPS habilidado y todo configurado para que el certificado se vaya renovando automáticamente</strong>.</p>
