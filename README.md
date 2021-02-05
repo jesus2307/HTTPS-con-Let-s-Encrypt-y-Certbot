@@ -45,4 +45,4 @@ wp search-replace 'http://la ip publica' 'https://nombre del dominio'
 
 # Este seria el resultado:
 
-![imagen](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/captura12.PNG "imagen")
+![imagen](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/result.PNG "imagen")
