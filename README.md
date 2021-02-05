@@ -41,7 +41,8 @@ Cuando esté creando la instancia deberá configurar los puertos que estarán ab
 <p>Con el siguiente comando podemos comprobar que hay un temporizador en el sistema encargado de realizar la renovación de los certificados de manera automática.</p>
 <pre><code>systemctl list-timers</code></pre>
 
-wp search-replace 'http://la ip publica' 'https://nombre del dominio'
++ Reemplazamos las direcciones
+<pre><code>wp search-replace 'http://la ip publica' 'https://nombre del dominio'</code></pre>
 ![imagen](https://github.com/jesus2307/IAW-Pr-ctica-HTTPS-/blob/main/imagen/Captura22222.PNG "imagen")
 # Este seria el resultado:
 
